@@ -30,7 +30,7 @@ time_to_play = None
 FORMAT = "utf-8"
 connected_players = [] # List to store connected player addresses
 color_class = bcolors()
-print(server_IP)
+
 
 
 def check_port_in_use(port):
